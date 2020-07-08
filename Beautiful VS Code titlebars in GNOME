@@ -1,0 +1,6 @@
+Beautiful VS Code titlebars in GNOME
+
+Go to File>Preference>Settings and in user settings write 
+
+
+"window.titleBarStyle": "custom",
